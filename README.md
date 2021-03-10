@@ -1,6 +1,6 @@
 # locale_latlng
 
-Get country geocoordinates from a user locale, when geolocation isn't authorized.
+Get latitude and longitude from a country code.
 
 ## Usage
 

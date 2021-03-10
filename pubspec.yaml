@@ -1,6 +1,6 @@
 name: locale_latlng
-description: Get country geocoordinates from a user locale, when geolocation isn't authorized.
-version: 1.0.0
+description: Get latitude and longitude from a country code.
+version: 1.0.1
 homepage: https://github.com/aloisdeniel/locale_latlng
 
 environment:
