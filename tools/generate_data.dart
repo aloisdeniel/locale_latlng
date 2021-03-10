@@ -26,7 +26,7 @@ Future<void> main() async {
         final lat = latlng[0] as num;
         final lng = latlng[1] as num;
         dart.writeln(
-            '\'${code.toLowerCase()}\': LatLng(${lat.toStringAsFixed(4)}, ${lng.toStringAsFixed(4)}),');
+            '  \'${code.toLowerCase()}\': LatLng(${lat.toStringAsFixed(4)}, ${lng.toStringAsFixed(4)}),');
       }
     }
   }
