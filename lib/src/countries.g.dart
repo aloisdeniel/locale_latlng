@@ -1,6 +1,6 @@
 // GENERATED CODE (see tools directory)
 
-import 'latlng.dart';
+import '../latlng.dart';
 
 const countries = {
   'aw': LatLng(12.5000, -69.9667),

@@ -1,4 +1,4 @@
-import 'package:locale_latlng/src/latlng.dart';
+import 'package:locale_latlng/latlng.dart';
 
 import 'src/countries.g.dart';
 

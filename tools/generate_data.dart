@@ -10,7 +10,7 @@ Future<void> main() async {
   final dart = StringBuffer();
   dart.writeln('// GENERATED CODE (see tools directory)');
   dart.writeln();
-  dart.writeln('import \'latlng.dart\';');
+  dart.writeln('import \'../latlng.dart\';');
   dart.writeln('');
   dart.writeln('const countries = {');
 
